@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Software Engineer | Data Analyst |  Analytical Thinker<br><br>As an Electronics & Communication Engineering graduate from MSIT Delhi, I'm driven by a deep curiosity for technology. I see coding as an art form, where I combine analytical thinking with innovation to develop impactful solutions. With a focus on leveraging data insights to drive business growth and efficiency, I’m always eager to tackle new challenges. <br>Let’s collaborate and make something extraordinary!
+🚀 Software Engineer | Data Analyst |  Analytical Thinker<br><br>As an Electronics & Communication Engineering graduate from MSIT(GGSIPU) Delhi, I'm driven by a deep curiosity for technology. I see coding as an art form, where I combine analytical thinking with innovation to develop impactful solutions. With a focus on leveraging data insights to drive business growth and efficiency, I’m always eager to tackle new challenges. <br>Let’s collaborate and make something extraordinary!
 
 
 ## 🌐 Socials:
